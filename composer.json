@@ -1,0 +1,14 @@
+{
+    "name": "twingob/traviscichallenge",
+    "description":" ",
+    "keywords":[
+    ],
+    "config":{
+        "bin-dir": "bin"
+    },
+    "autoload":{
+        "psr-0":{
+            "Twingob\\TravisCIChallenge": "src/"
+        }
+    }
+}
